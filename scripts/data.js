@@ -296,6 +296,10 @@ const LAB_DATA = {
   // News items
   news: [
     {
+      title: '\u26CF\uFE0F "MINER" is heading to WACV 2027! Mining hard examples and pushing the boundaries of person re-identification.',
+      date: "31-10-2026",
+      content: [],
+    },{
       title: '"NIV" has been accepted to NeurIPS 2026! &#128292; &#129432; &#127462;&#127482;',
       date: "30-09-2026",
       content: [],
